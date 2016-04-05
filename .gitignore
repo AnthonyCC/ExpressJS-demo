@@ -1,0 +1,2 @@
+#Do not check in npm dependencies
+node_modules/
